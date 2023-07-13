@@ -10,10 +10,15 @@ Hypixel Guild: https://plancke.io/hypixel/guild/name/coffeebedwars
 Server Status: https://coffeebedwars.statuspage.io
 
 @Outerspacepugyt's Socials.
+
 In-Game Name: 1zg
+
 Bedwars Star: 572
+
 Twitch: https://twitch.tv/outerspacepugyt
+
 Twitter: https://twitter.com/outerspacepugyt
+
 Other: https://solo.to/outerspacepugyt
 
 Support email: support@coffeebedwars.net
