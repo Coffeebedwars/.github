@@ -1,6 +1,3 @@
-## Hi there 👋
-
-<!--
 
 We're a small Minecraft Bedwars Community that has been around since 2021!
 Currently Been working on projects that our leader @Outerspacepugyt Makes for us & other communities on discord!.
@@ -18,5 +15,3 @@ Twitter: https://twitter.com/outerspacepugyt
 Other: solo.to/outerspacepugyt
 
 Support email: support@coffeebedwars.net
-
--->
