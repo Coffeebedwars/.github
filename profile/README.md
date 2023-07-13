@@ -3,6 +3,7 @@ We're a small Minecraft Bedwars Community that has been around since 2021!
 Currently Been working on projects that our leader @Outerspacepugyt Makes for us & other communities on discord!.
 If you want to contact CoffeeBedwars Our support email is. support@coffeebedwars.net
 
+
 Minecraft Server: play.coffeebedwars.net [1.8 - 1.20]
 
 Discord: https://discord.gg/qQKyqfTW5R
@@ -13,11 +14,11 @@ Hypixel Guild: https://plancke.io/hypixel/guild/name/coffeebedwars
 
 Server Status: https://coffeebedwars.statuspage.io
 
+
 @Outerspacepugyt's Socials.
 
-In-Game Name: 1zg
-
-Bedwars Star: 572
+In-Game Name: 1zg.
+Bedwars Star: 572.
 
 Twitch: https://twitch.tv/outerspacepugyt
 
