@@ -15,7 +15,7 @@ Server Status: https://coffeebedwars.statuspage.io
 @Outerspacepugyt's Socials.
 
 In-Game Name: 1zg                            
-Bedwars Star: 572                            
+Bedwars Star: 644                            
 Twitch: https://twitch.tv/outerspacepugyt                            
 Twitter: https://twitter.com/outerspacepugyt                            
 Other: https://solo.to/outerspacepugyt                            
